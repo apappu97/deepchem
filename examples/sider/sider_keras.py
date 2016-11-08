@@ -73,4 +73,4 @@ for learning_rate in learning_rates:
 	  f.write('dropout, ' + str(dropout) + '\n')
 	  f.write('n_layers, ' + str(n_layer) + '\n')
 	  f.write('train score, ' + str(train_scores) + '\n')
-	  f.write('valid score, ' + str(valid_scores) + '\n')
+	  f.write('valid score, ' + str(valid_scores) + '\n\n')
